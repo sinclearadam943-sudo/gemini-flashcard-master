@@ -57,7 +57,7 @@
 
 5. 在浏览器中打开：
    ```
-   http://localhost:5173
+   http://localhost:3000
    ```
 
 ## 使用指南
