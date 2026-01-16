@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Flashcard Master",
+  "description": "A sophisticated flashcard application that uses Gemini AI to instantly generate study sets from any topic, text, or exam paper images. Features study modes, deck management, and a beautiful, responsive interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
